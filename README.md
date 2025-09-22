@@ -6,11 +6,11 @@ Explique un proyecto de ciencia de datos que utiliza regresión logística para 
 # PROYECTO DE ML
 ## INDICE
 
--[📖DESCRIPCION]#(-descripcion)
--[🚀CARACTERISTICAS]#(-caracteristicas)
--[   EJEMPLOS]#(-ejemplos)
--[🛠️INSTALACION]#(-instalacion)
--[📝LICENCIA]#(-licencia)
+-[📖DESCRIPCION](#-descripcion)
+-[🚀CARACTERISTICAS](#-caracteristicas)
+-[   EJEMPLOS](#-ejemplos)
+-[🛠️INSTALACION](#-instalacion)
+-[📝LICENCIA](#-licencia)
 
 ## 📖Descripcion
 Este es un trabajo introductorio de ML...
