@@ -1,5 +1,5 @@
 # Portafolio-Ciencia-de-Datos
-Explique un proyecto de ciencia de datos que utiliza regresión logística para predecir la probabilidad de que un cliente abandone un servicio. Ejemplo
+Explique un proyecto de ciencia de datos que utiliza regresión logística para predecir la probabilidad de que un cliente abandone un servicio.
 [![Ciencia de Datos](images/img1.jpg)](https://www.youtube.com/)
 
 
