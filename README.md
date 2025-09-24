@@ -26,15 +26,16 @@ En mi trayectoria he trabajado en **transformación digital, análisis de datos,
 ## 📂 Proyectos Destacados  
 Aquí encontrarás los proyectos consolidados de mi Bootcamp en Ciencia de Datos:  
 
-1. 📊 [Módulo 1 – Análisis Exploratorio](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/M%C3%B3dulo_2.ipynb)  
-2. 📈 [Módulo 2 – Visualización de Datos](https://github.com/Claudia060392/Practicas Consolidadas/Modulo_2)  
-3. 🤖 [Módulo 3 – Modelos de Clasificación](https://github.com/Claudia060392/Practicas Consolidadas/Modulo_3) 
-4. 📉 [Módulo 4 – Series Temporales](https://github.com/Claudia060392/Practicas Consolidadas/Modulo_4)  
-5. 🏡 [Módulo 5 – Regresión aplicada a bienes raíces](https://github.com/Claudia060392/Practicas Consolidadas/Modulo_5) 
-6. 🌍 [Módulo 6 – Impacto del cambio climático en la agricultura](https://github.com/Claudia060392/Practicas Consolidadas/Modulo_6) 
-7. 🎶 [Módulo 7 – Segmentación de usuarios musicales y ML supervisado](https://github.com/Claudia060392/Practicas Consolidadas/Modulo_7)  
-8. 🧠 [Módulo 8 – Redes neuronales aplicadas a predicción de natalidad](https://github.com/Claudia060392/Practicas Consolidadas/Modulo_8)
-9. 🌎 [Módulo 9 – Big Data con PySpark: análisis de migraciones](https://github.com/Claudia060392/Practicas Consolidadas/Modulo_9)
+1. 📖 [Sistema de Compras: "Libros & Bytes"](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/M%C3%B3dulo_2.ipynb)  
+2. 📈 [Migración de Datos - Limpieza y Transformación](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_3.ipynb)  
+3. 🤖 [Análisis Olímpico - Rendimiento y Regresión](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_4.ipynb) 
+4. 📉 [Efecto de Tutorías - Pruebas de Hipótesis](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_5.ipynb)  
+5. 🏡 [Predicción de Viviendas - Machine Learning](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_6.ipynb) 
+6. 🌍 [Clasificación de Géneros Musicales - Clustering & Análisis](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_7.ipynb) 
+7. 🎶 [Predicción de Natalidad - Redes Neuronales](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_8.ipynb)  
+8. 🧠 [Migraciones Globales - Big Data con PySpark](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_9.ipynb)
+
+---
 
 
 
