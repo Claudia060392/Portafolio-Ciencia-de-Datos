@@ -26,7 +26,7 @@ En mi trayectoria he trabajado en **transformación digital, análisis de datos,
 ## 📂 Proyectos Destacados  
 Aquí encontrarás los proyectos consolidados de mi Bootcamp en Ciencia de Datos:  
 
-1. 📊 [Módulo 1 – Análisis Exploratorio]([Practicas Consolidadas/Módulo_2.ipynb](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/M%C3%B3dulo_2.ipynb)  
+1. 📊 [Módulo 1 – Análisis Exploratorio](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/M%C3%B3dulo_2.ipynb)  
 2. 📈 [Módulo 2 – Visualización de Datos](https://github.com/Claudia060392/Practicas Consolidadas/Modulo_2)  
 3. 🤖 [Módulo 3 – Modelos de Clasificación](https://github.com/Claudia060392/Practicas Consolidadas/Modulo_3) 
 4. 📉 [Módulo 4 – Series Temporales](https://github.com/Claudia060392/Practicas Consolidadas/Modulo_4)  
