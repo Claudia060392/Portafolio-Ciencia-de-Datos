@@ -67,6 +67,10 @@ Puedes ver mi CV completo y una versión en formato web aquí:
 
 ---
 
-## Video Complementario
+## 🎥 Video Complementario  
 
-[![Video informativo complementario](https://img.youtube.com/vi/wbIAKJTgSPs/0.jpg)](https://youtu.be/wbIAKJTgSPs)
+[![Video informativo complementario](https://img.youtube.com/vi/wbIAKJTgSPs/0.jpg)](https://youtu.be/wbIAKJTgSPs)  
+
+✨ En este video hago una **breve presentación profesional** sobre mi perfil en ciencia de datos y algunos proyectos destacados.  
+
+👉 Te invito a verlo para conocerme mejor.
