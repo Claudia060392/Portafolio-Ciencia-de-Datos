@@ -28,17 +28,24 @@ Aquí encontrarás los proyectos consolidados de mi Bootcamp en Ciencia de Datos
 
 1. 📖 [Sistema de Compras: "Libros & Bytes"](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/M%C3%B3dulo_2.ipynb)  
 2. 📈 [Migración de Datos - Limpieza y Transformación](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_3.ipynb)  
-3. 🤖 [Análisis Olímpico - Rendimiento y Regresión](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_4.ipynb) 
+3. 🏅 [Análisis Olímpico - Rendimiento y Regresión](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_4.ipynb) 
 4. 📉 [Efecto de Tutorías - Pruebas de Hipótesis](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_5.ipynb)  
-5. 🏡 [Predicción de Viviendas - Machine Learning](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_6.ipynb) 
-6. 🌍 [Clasificación de Géneros Musicales - Clustering & Análisis](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_7.ipynb) 
-7. 🎶 [Predicción de Natalidad - Redes Neuronales](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_8.ipynb)  
-8. 🧠 [Migraciones Globales - Big Data con PySpark](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_9.ipynb)
+5. 🏡 [Predicción de Precio de Viviendas - Machine Learning](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_6.ipynb) 
+6. 🎵 [Clasificación de Géneros Musicales - Clustering & Análisis](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_7.ipynb) 
+7. 🤖 [Predicción de Natalidad - Redes Neuronales](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_8.ipynb)  
+8. 🌍 [Migraciones Globales - Big Data con PySpark](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos/blob/main/Practicas%20Consolidadas/Modulo_9.ipynb)
 
 ---
 
+## 📄 CV y Página Personal  
+Puedes ver mi CV completo y una versión en formato web aquí:  
+👉 [Página web con CV](./index.html)  
 
+---
 
+## 🤝 Conecta conmigo  
+- [LinkedIn](www.linkedin.com/in/claudiaarayam)  
+- [GitHub](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos) 
 
 -[📖Descripcion](#-Descripcion)
 -[🚀Proyectos](#-Proyectos)
