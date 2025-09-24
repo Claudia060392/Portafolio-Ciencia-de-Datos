@@ -69,4 +69,4 @@ Puedes ver mi CV completo y una versión en formato web aquí:
 
 ## Video Complementario
 
-[![Video informativo complementario](https://img.youtube.com/vi/wbIAKJTgSPs.jpg)](https://youtu.be/wbIAKJTgSPs)
+[![Video informativo complementario](https://img.youtube.com/vi/wbIAKJTgSPs/0.jpg)](https://youtu.be/wbIAKJTgSPs)
