@@ -48,7 +48,7 @@ El proyecto analiza un dataset de Kaggle sobre **uso de la tecnología y niveles
 - Incluye conclusiones sobre los patrones encontrados y reflexiones finales.  
 
 🔗 **Acceso al repositorio completo:**  
-👉 [Gran Proyecto Final – Estrés y Bienestar Digital](https://github.com/tuusuario/gran-proyecto-final)  
+👉 [Gran Proyecto Final – Estrés y Bienestar Digital](https://github.com/Claudia060392/Analisis-Bienestar-Tecnologico)  
 
 🎥 **Demo en video:**  
 ➡️ [Ver video explicativo](https://youtu.be/tu-video)
