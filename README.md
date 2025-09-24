@@ -37,6 +37,24 @@ Aquí encontrarás los proyectos consolidados de mi Bootcamp en Ciencia de Datos
 
 ---
 
+## 🌟 Gran Proyecto Final – Estrés y Bienestar Digital
+Este es mi **proyecto integrador**, donde aplico todo lo aprendido en el bootcamp.  
+
+📌 **Descripción breve:**  
+El proyecto analiza un dataset de Kaggle sobre **uso de la tecnología y niveles de estrés**.  
+- Se realiza un análisis exploratorio y estadístico de los datos.  
+- Se diseñan y comparan **dos modelos de Machine Learning** (Regresión Lineal y Random Forest).  
+- Se evalúa cuál modelo predice mejor el impacto de la tecnología en el bienestar.  
+- Incluye conclusiones sobre los patrones encontrados y reflexiones finales.  
+
+🔗 **Acceso al repositorio completo:**  
+👉 [Gran Proyecto Final – Estrés y Bienestar Digital](https://github.com/tuusuario/gran-proyecto-final)  
+
+🎥 **Demo en video:**  
+➡️ [Ver video explicativo](https://youtu.be/tu-video)
+
+---
+
 ## 📄 CV y Página Personal  
 Puedes ver mi CV completo y una versión en formato web aquí:  
 👉 [Página web con CV](./index.html)  
@@ -47,25 +65,7 @@ Puedes ver mi CV completo y una versión en formato web aquí:
 - [LinkedIn](www.linkedin.com/in/claudiaarayam)  
 - [GitHub](https://github.com/Claudia060392/Portafolio-Ciencia-de-Datos) 
 
--[📖Descripcion](#-Descripcion)
--[🚀Proyectos](#-Proyectos)
--[   Ejemplos](#-Ejemplos)
--[🛠️Instalacion](#-Instalacion)
--[📝Licencia](#-Licencia)
-
-## 📖Descripcion
-Este es un trabajo introductorio de ML...
-
-## 🚀Proyectos
-- Proyecto 1
-- Proyecto 2
-
-## 🛠️Instalacion
-git init
-git add.
-git commit "primer commit"
-
-## 📝Licencia
+---
 
 ## Video Complementario
 
